@@ -1,4 +1,4 @@
-FROM php:7.0-fpm
+FROM php:fpm
 
 MAINTAINER "Gary Smith" <docker@kc.gs>
 
